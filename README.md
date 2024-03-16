@@ -14,6 +14,12 @@ This is a refresher course on how to work with classes.
 
 A simple two player game.
 
+### After completing these three projects, you will have complete fundamental knowledge of javascript.
+
+##### 04-bankist-app
+
+Working with arrays.
+
 ##### 0X-XXXX
 
 This is a refresher course on how to
